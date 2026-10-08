@@ -21,4 +21,4 @@ The estimated depth information is analyzed to determine obstacle proximity and 
 
 Due to the size of the project files, the complete source code and related project files are hosted on Google Drive:
 
-**[View / Download Source Code]((https://drive.google.com/drive/folders/1xn1tNYV0Q3PJiZSMS9RYQn8rI3A6o329?usp=drive_link))**
+**[View / Download Source Code]([https://drive.google.com/drive/folders/1xn1tNYV0Q3PJiZSMS9RYQn8rI3A6o329?usp=drive_link])**
